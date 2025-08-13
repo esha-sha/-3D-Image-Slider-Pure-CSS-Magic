@@ -14,3 +14,8 @@ This 3D image slider spins, flips, and slides with buttery-smooth transitions �
 • 	Fully responsive & customizable
 
 •   Just HTML + CSS — no fluff, no lag.
+
+the effect -
+
+https://github.com/user-attachments/assets/83d99719-2cc4-471f-bcbe-14af20fbf8ca
+
